@@ -10,12 +10,6 @@
 
 ### 🏠 [Homepage](https://github.com/neelanjan00/Parkinsons-Detection)
 
-## Usage
-
-```sh
-flutter run
-```
-
 ## Author
 
 👤 **Neelanjan Manna**
